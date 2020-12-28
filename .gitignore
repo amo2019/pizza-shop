@@ -13,6 +13,7 @@
 /client/build
 
 # misc
+yarn.lock
 .env
 /client/.DS_Store
 /client/.env.local

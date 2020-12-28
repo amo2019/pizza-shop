@@ -1,8 +1,9 @@
 {
-  "name": "login",
+  "name": "PizzaStore",
+  "private": true,
   "version": "1.0.0",
-  "description": "How to use NodeJS with Express and Bcrypt to create a full lifecycle website for registering and logging in",
-  "main": "server-route.js",
+  "description": "How to use NodeJS without Express and third party libraries",
+  "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5"
   },
@@ -14,6 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Amin",
   "license": "ISC"
 }
