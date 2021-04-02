@@ -1,5 +1,6 @@
 # pizza-shop
-This is NodeJS-JavaScript web app (no third party libraries)
+This is NodeJS-JavaScript web app (no third party libraries) 
+I have built this app locally from scratch, about 6 bmonths ago (task).
 
 # Start App
 
